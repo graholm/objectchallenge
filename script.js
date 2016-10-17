@@ -12,7 +12,11 @@ document.write(person.name)
 console.log("name")
 var img = document.createElement("img");
   img.src = (person.representation);
-  $(img).css({height: person.height})
+  $(img).css({"border-color": "#C1E0FF", 
+              "border-weight":"1px", 
+              "border-style":"solid"});
+    
+            ({height: person.height})
   document.body.appendChild(img);
   
 }
