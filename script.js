@@ -1,4 +1,4 @@
-drawperson 
+drawperson ()
 
 var person = {
   name: "Grace",
@@ -10,7 +10,7 @@ var person = {
 console.log (person.name) 
 
 
-function drawperson(person) {  
+function drawperson() {  
 document.write(person.name)
 
 }
