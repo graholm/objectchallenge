@@ -7,4 +7,6 @@ var person = {
 }
 //drawPerson(person)
 
-person.name
+
+function draw person (person)(
+  per
