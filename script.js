@@ -9,6 +9,8 @@ var person = {
 drawperson()
 function drawperson() {  
 document.write(person.name)
+console.log("name")
+document.write("img src="+this.link+">");
 
 
 }
