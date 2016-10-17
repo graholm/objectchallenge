@@ -7,13 +7,8 @@ var person = {
 }
 
 drawperson()
-console.log (person.name) 
-
-
-
 function drawperson() {  
 document.write(person.name)
-(person.representation)
 
 
 }
