@@ -7,8 +7,9 @@ var person = {
 }
 console.log (person.name) 
 
+
 function drawperson(person) {
-  console.log ("h)
+  
 document.write(person.name)
 
 }
