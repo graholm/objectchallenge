@@ -1,7 +1,7 @@
 var person = {
   name: "Grace",
-  representation: "http://www.menucool.com/slider/jsImgSlider/images/image-slider-2.jpg",
-  height: "50px",	
+  representation: "http://healthimpactnews.com/wp-content/uploads/sites/2/2014/09/goat-eating-weeds.jpg",
+  height: "300px",	
   favoriteColor: "purple",
   catchphrase: "Get pumped!"
 }
