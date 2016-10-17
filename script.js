@@ -5,7 +5,8 @@ var person = {
   favoriteColor: "blue",
   catchphrase: "Get pumped!"
 }
+console.log (person.name) 
 
 function drawperson(person) {
-  console.log (person.name) 
+
 }
