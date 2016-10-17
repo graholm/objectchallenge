@@ -12,7 +12,8 @@ document.write(person.name)
 console.log("name")
 var img = document.createElement("img");
   img.src = (person.representation);
-  img.height = (person.height)
+  
+ //= (person.height);
   document.body.appendChild(img);
   
 }
