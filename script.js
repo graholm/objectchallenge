@@ -10,11 +10,9 @@ drawperson()
 function drawperson() {  
 document.write(person.name)
 console.log("name")
-var picture = document.createElement("picture");
-  img.src = (person.);
-  img.width = width;
-  img.height = height;
-  img.alt = alt;
 
+var img = document.createElement("img");
+  img.src = (person.representation);
+  document.body.appendChild(img);
 
 }
